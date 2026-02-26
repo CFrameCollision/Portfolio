@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<minder version="1.17" parent-etag="3727605854" etag="3981044487">
+  <theme name="Custom #2" label="Custom #2" index="-1" textsel_foreground="#002b36" url_foreground="#62a0ea" foreground="#586e75" match_background="#ffd700" callout_background="#f9c440" link_color0="#dc322f" text_cursor="#586e75" syntax="#808080" link_color1="#cb4b16" background="#f1ecec" nodesel_foreground="#ffffff" textsel_background="#93a1a1" attachable="#9bdb4d" connection_foreground="#fdf6e3" link_color2="#b58900" root_foreground="#fdf6e3" tag="#c00000" link_color3="#859900" link_color4="#268bd2" root_background="#839496" match_foreground="#000000" markdown_listitem="#ff0000" link_color5="#6c71c4" url_background="#808080" link_color6="#d33682" link_color7="#2aa198" nodesel_background="#586e75" connection_background="#606060" prefer_dark="false"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="1" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="2" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="3" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="4" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="5" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="6" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="7" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="8" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="9" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="10" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+  </styles>
+  <images/>
+  <nodes>
+    <node id="0" posx="968.978515625" posy="560.541015625" width="119" height="50" side="right" fold="false" sequence="false" treesize="50" color="#e01b24" summarized="false" layout="Horizontal" group="false">
+      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="squared" nodewidth="183" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true"/>
+      <nodename maxwidth="177.90733405929836">
+        <text data="Spiritual Life"/>
+      </nodename>
+      <nodenote></nodenote>
+    </node>
+    <node id="1" posx="652.31640625" posy="673.3046875" width="170" height="50" side="right" fold="false" sequence="false" treesize="50" summarized="false" layout="Horizontal" group="false">
+      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true"/>
+      <nodename maxwidth="200">
+        <text data="Activities.5.eqmore"/>
+      </nodename>
+      <nodenote></nodenote>
+    </node>
+    <node id="2" posx="646.26171875" posy="558.0234375" width="171" height="50" side="right" fold="false" sequence="false" treesize="50" summarized="false" layout="Horizontal" group="false">
+      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true"/>
+      <nodename maxwidth="200">
+        <text data="Campus Interaction"/>
+      </nodename>
+      <nodenote></nodenote>
+    </node>
+    <node id="3" posx="652.17578125" posy="445.046875" width="157" height="50" side="right" fold="false" sequence="false" treesize="50" summarized="false" layout="Horizontal" group="false">
+      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true"/>
+      <nodename maxwidth="200">
+        <text data="Faculy Interaction"/>
+      </nodename>
+      <nodenote></nodenote>
+    </node>
+  </nodes>
+  <groups/>
+  <connections>
+    <connection from_id="3" to_id="0" drag_x="895.46538635071158" drag_y="512.17502872672628" color="#ed333b">
+      <style connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title>d - 1.14</title>
+      <note></note>
+    </connection>
+    <connection from_id="2" to_id="0" drag_x="877.74134835797145" drag_y="585.57667967897214" color="#ed333b">
+      <style connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title>e - 0.21</title>
+      <note></note>
+    </connection>
+    <connection from_id="1" to_id="0" drag_x="903.68567514324377" drag_y="663.57582989233936" color="#ed333b">
+      <style connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title>f - 0.80</title>
+      <note></note>
+    </connection>
+    <connection from_id="3" to_id="2" drag_x="731.5751953125" drag_y="523.6328125">
+      <style connectiondash="dotted" connectionlwidth="2" connectionarrow="both" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title>b - 0.02</title>
+      <note></note>
+    </connection>
+    <connection from_id="1" to_id="2" drag_x="733.0417442702485" drag_y="635.0057197007352">
+      <style connectiondash="dotted" connectionlwidth="2" connectionarrow="both" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title>c - 0.01</title>
+      <note></note>
+    </connection>
+    <connection from_id="1" to_id="3" drag_x="606.16598865562332" drag_y="580.7201959758462">
+      <style connectiondash="dotted" connectionlwidth="2" connectionarrow="both" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title>a - 0.20</title>
+      <note></note>
+    </connection>
+  </connections>
+  <stickers/>
+  <nodelinks id="0"/>
+</minder>

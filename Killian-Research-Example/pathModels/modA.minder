@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<minder version="1.17" parent-etag="1490189059" etag="2037880011">
+  <theme name="dark" label="Dark" index="-1"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="1" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="2" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="3" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="4" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="5" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="6" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="7" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="8" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="9" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="10" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SF Pro Display 13" nodemarkup="true" connectiondash="longdash" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+  </styles>
+  <images/>
+  <nodes>
+    <node id="0" posx="502.6953125" posy="515.3046875" width="121" height="78" side="left" fold="false" sequence="false" treesize="78" summarized="false" layout="Horizontal" group="false">
+      <style branchmargin="102" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="20" nodefont="SF Pro Display 13" nodemarkup="true"/>
+      <nodename maxwidth="200">
+        <text data="cFactor3"/>
+      </nodename>
+      <nodenote></nodenote>
+    </node>
+    <node id="5" posx="501.0078125" posy="352.41796875" width="120" height="78" side="left" fold="false" sequence="false" treesize="78" summarized="false" layout="Horizontal" group="false">
+      <style branchmargin="102" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="20" nodefont="SF Pro Display 13" nodemarkup="true"/>
+      <nodename maxwidth="200">
+        <text data="cFactor7"/>
+      </nodename>
+      <nodenote></nodenote>
+    </node>
+    <node id="9" posx="685.85507812499998" posy="453.65312499999987" width="123" height="78" side="left" fold="false" sequence="false" treesize="78" summarized="false" layout="Horizontal" group="false">
+      <style branchmargin="102" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="20" nodefont="SF Pro Display 13" nodemarkup="true"/>
+      <nodename maxwidth="200">
+        <text data="Activities"/>
+      </nodename>
+      <nodenote></nodenote>
+    </node>
+    <node id="10" posx="911.54960937499993" posy="450.12070312499998" width="92" height="78" side="left" fold="false" sequence="false" treesize="78" color="#e01b24" summarized="false" layout="Horizontal" group="false">
+      <style branchmargin="102" branchradius="25" linktype="curved" linkwidth="5" linkarrow="true" linkdash="longdash" nodeborder="squared" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="20" nodefont="SF Pro Display 13" nodemarkup="true"/>
+      <nodename maxwidth="200">
+        <text data="Faith"/>
+      </nodename>
+      <nodenote></nodenote>
+    </node>
+  </nodes>
+  <groups/>
+  <connections>
+    <connection from_id="5" to_id="9" drag_x="665.62656250000009" drag_y="420.42499999999995" color="#ff7800">
+      <style connectiondash="longdash" connectionlwidth="4" connectionarrow="fromto" connectionpadding="6" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title>b</title>
+      <note></note>
+    </connection>
+    <connection from_id="0" to_id="5" drag_x="563.07187500000009" drag_y="469.93671874999995">
+      <style connectiondash="dotted" connectionlwidth="4" connectionarrow="both" connectionpadding="6" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title>a</title>
+      <note></note>
+    </connection>
+    <connection from_id="0" to_id="10" drag_x="794.79062500000009" drag_y="597.23749999999984" color="#e01b24">
+      <style connectiondash="longdash" connectionlwidth="4" connectionarrow="fromto" connectionpadding="6" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title>d</title>
+      <note></note>
+    </connection>
+    <connection from_id="5" to_id="10" drag_x="783.79062500000009" drag_y="369.65546874999995" color="#e01b24">
+      <style connectiondash="longdash" connectionlwidth="4" connectionarrow="fromto" connectionpadding="6" connectionfont="Sans 10" connectiontwidth="400"/>
+      <title>e</title>
+      <note></note>
+    </connection>
+    <connection from_id="0" to_id="9" drag_x="667.43515625000009" drag_y="542.87421874999995" color="#ff7800">
+      <style connectiondash="longdash" connectionlwidth="4" connectionarrow="fromto" connectionpadding="6" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title>c</title>
+      <note></note>
+    </connection>
+    <connection from_id="9" to_id="10" drag_x="853.98984375000009" drag_y="491.19843749999995" color="#e01b24">
+      <style connectiondash="longdash" connectionlwidth="4" connectionarrow="fromto" connectionpadding="6" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title>f</title>
+      <note></note>
+    </connection>
+  </connections>
+  <stickers/>
+  <nodelinks id="0"/>
+</minder>
